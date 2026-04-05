@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kwj52321/dailyProgramming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
