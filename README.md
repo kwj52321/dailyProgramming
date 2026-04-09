@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/kwj52321/dailyProgramming/tree/master/0390-elimination-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -38,5 +39,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
+| [0390-elimination-game](https://github.com/kwj52321/dailyProgramming/tree/master/0390-elimination-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
