@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -36,5 +37,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
