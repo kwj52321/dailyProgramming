@@ -6,23 +6,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kwj52321/dailyProgramming/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kwj52321/dailyProgramming/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0143-reorder-list](https://github.com/kwj52321/dailyProgramming/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kwj52321/dailyProgramming/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/kwj52321/dailyProgramming/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kwj52321/dailyProgramming/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/kwj52321/dailyProgramming/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/kwj52321/dailyProgramming/tree/master/0390-elimination-game) |
 ## Divide and Conquer
