@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kwj52321/dailyProgramming/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kwj52321/dailyProgramming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/kwj52321/dailyProgramming/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/kwj52321/dailyProgramming/tree/master/0390-elimination-game) |
