@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kwj52321/dailyProgramming/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/kwj52321/dailyProgramming/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/kwj52321/dailyProgramming/tree/master/0143-reorder-list) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/kwj52321/dailyProgramming/tree/master/0010-regular-expression-matching) |
 | [0070-climbing-stairs](https://github.com/kwj52321/dailyProgramming/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/kwj52321/dailyProgramming/tree/master/0707-design-linked-list) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/kwj52321/dailyProgramming/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
