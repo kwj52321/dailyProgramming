@@ -39,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/kwj52321/dailyProgramming/tree/master/0148-sort-list) |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/kwj52321/dailyProgramming/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/kwj52321/dailyProgramming/tree/master/0070-climbing-stairs) |
 | [0390-elimination-game](https://github.com/kwj52321/dailyProgramming/tree/master/0390-elimination-game) |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/kwj52321/dailyProgramming/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Dynamic Programming
 |  |
@@ -95,4 +98,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/kwj52321/dailyProgramming/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kwj52321/dailyProgramming/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/kwj52321/dailyProgramming/tree/master/0226-invert-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/kwj52321/dailyProgramming/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
