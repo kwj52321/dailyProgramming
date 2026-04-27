@@ -1,8 +1,11 @@
 class Solution:
     def kClosest(self, points: List[List[int]], k: int) -> List[List[int]]:
 
-        import heapq
-        return heapq.nsmallest(k, points, key = lambda x: x[0]**2 + x[1]**2)
+        points.sort(key = lambda x: x[0]**2 + x[1]**2)
+        return points[:k]
+
+        # import heapq
+        # return heapq.nsmallest(k, points, key = lambda x: x[0]**2 + x[1]**2)
         # if len(points) == 1:
         #     return points
 
